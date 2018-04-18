@@ -1,0 +1,4 @@
+git init -bare demo.git
+cd demo.git
+git add  .
+git commit -m
